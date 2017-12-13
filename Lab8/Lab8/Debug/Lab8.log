@@ -1,0 +1,3 @@
+﻿  Lab8.cpp
+c:\users\alex i\documents\visual studio 2015\projects\lab8\lab8\lab8.cpp(79): error C4703: potentially uninitialized local pointer variable 'previousNode' used
+c:\users\alex i\documents\visual studio 2015\projects\lab8\lab8\lab8.cpp(146): error C4703: potentially uninitialized local pointer variable 'previousNode' used
